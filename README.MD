@@ -1,8 +1,8 @@
 # Tech Blog
 
 ## GitHub Repository & Deployed Application
-* https://github.com/ila0406/Tech-Blog
-* https://xxxxxxxx.herokuapp.com/
+* https://github.com/ila0406/Developer-Tech-Blog
+* https://radiant-crag-82131.herokuapp.com/
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
