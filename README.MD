@@ -43,7 +43,7 @@ As a developer who writes about tech, I want a CMS style blog site.
 3) Add env file with 
     * `DB_USER=''`
     * `DB_PW=''` 
-    * `DB_NAME='travelTrusteeTravelPals_db'`
+    * `DB_NAME='techblog_db'`
 4) Run  `npm start` to begin program
 
 ## <a id='usage-info' href='#readme-badges'><img id='usage' src='https://i.imgur.com/erC9rgJ.png' style='height: 40px'></a>
